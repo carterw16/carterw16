@@ -1,6 +1,6 @@
 ### Hi, I’m Carter Weaver 
 I’m currently a student at Carnegie Mellon University inteerested in Computer Engineering and Data Science.
-My skills include Python, JavaScript, HTML, and circuit design.
+My skills include Java, C, Python, JavaScript, HTML, and Verilog.
 You can reach me at carterw@andrew.cmu.edu or visit my linkedin at www.linkedin.com/in/carter-weaver-4069641b2
 
 <!---
